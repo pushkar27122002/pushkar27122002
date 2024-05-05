@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pushkar Kallurkar</h1>
+<h2 align="center">Hi 👋, I'm Pushkar Kallurkar</h2>
 <h3 align="center">Undergraduate at NITK Surathkal and an aspiring software developer.</h3>
 
 - 🌱 I’m currently learning **Web3 , advanced backend and nextjs**
